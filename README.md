@@ -1,6 +1,6 @@
 # Chesta Sharma
 
-### 📊 Data Analyst in the Making | Turning Raw Data into Reliable Decisions
+###  Data Analyst in the Making | Turning Raw Data into Reliable Decisions
 
 > *Every dataset has a story. My work is about finding the chapters that businesses can act on.*
 
@@ -25,7 +25,7 @@ For me, analytics isn't about making charts. It's about making **better decision
 
 ---
 
-## 🧰 My Toolkit
+##  My Toolkit
 
 💻 **Languages**
 - SQL
